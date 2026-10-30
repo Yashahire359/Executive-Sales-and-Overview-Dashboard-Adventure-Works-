@@ -1,4 +1,3 @@
-# Executive-Sales-and-Overview-Dashboard-Adventure-Works-
 An interactive Power BI dashboard built using the Adventure Works dataset to analyze sales performance, revenue, profit, product trends, and regional sales. Provides executive-level insights through data visualization to support data-driven business decisions..
 # 📊 Executive Sales and Overview Dashboard | Adventure Works
 
@@ -136,3 +135,5 @@ This project uses the Adventure Works sample dataset for business intelligence a
 ---
 
 *If you find this project useful, consider giving the repository a star!*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/21891a2a-9ec7-401e-b8d6-a17f888ae7a7" />
+
